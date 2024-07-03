@@ -1,0 +1,14 @@
+#FL01,0101,0101,0101
+1,1,1,1,1,R$1.0,1
+3426,compiladores,2012,computação,pearson,R$135.5,50
+2631,sistemas digitais,2017,computação,liber,R$99.9,30
+9680,senhor dos aneis: a sociedade do anel,2005,fantasia,harper,R$35.0,120
+5,5,5,5,55,R$5.0,5
+
+#FL02, Centro, Andradas 1312, 3020-2253
+9680,senhor dos aneis: a sociedade do anel,2005,fantasia,harper,R$35.0,20
+9681,senhor dos aneis: as duas torres,2005,fantasia,harper,R$35.0,20
+
+#FL03,JURIMBI,lalala land,099000999
+6,6,6,6,6,R$6.0,6
+
